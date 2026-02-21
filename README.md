@@ -64,7 +64,7 @@ Anglais : C1
 <br/>
 
 ### 🦸 Heroes League  
-Projet statique HTML/CSS responsive  
+Projet statique HTML/CSS  
 - Intégration soignée  
 - Organisation CSS claire  
 🔗 Code : https://github.com/charlylam/heroes-league
