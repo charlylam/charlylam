@@ -67,7 +67,7 @@ Anglais : C1
 Projet statique HTML/CSS responsive  
 - Intégration soignée  
 - Organisation CSS claire  
-🔗 Code : https://github.com/charlylam/Portfolio/tree/main/projet-html-css/heroes-league
+🔗 Code : https://github.com/charlylam/heroes-league
 
 ---
 
