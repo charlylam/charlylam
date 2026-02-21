@@ -1,4 +1,4 @@
-# 👋 Bonjour, moi c'est Charly Lamena
+# 👋 Bonjour, moi c'est Charly
 
 🔁 Reconversion : 10 ans ébéniste → Développeur Web Fullstack  
 🎓 Formation Concepteur Développeur d’Applications Web (Bac+4 – École O’clock)  
