@@ -77,7 +77,7 @@ Application web dynamique consommant une API
 - Appels API  
 - Interface interactive  
 ⚠️ Clé API requise (GIF de démonstration disponible dans le repo)  
-🔗 Code : https://github.com/charlylam/Portfolio/tree/main/projet-svelte/SA07-projet-ochat-charlylam
+🔗 Code : https://github.com/charlylam/ochat-svelte
 
 ---
 
