@@ -86,7 +86,7 @@ Architecture Node.js structurée
 - Modèles relationnels  
 - Services / Repositories  
 - Migrations & Seeders  
-🔗 Repo : à venir
+🔗 Code : https://github.com/charlylam/pokedex-sequelize
 
 </details>
 
