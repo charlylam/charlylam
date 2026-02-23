@@ -72,9 +72,10 @@ Projet statique HTML/CSS
 ---
 
 ### 💬 Ochat (Svelte)  
-Application web dynamique consommant une API  
+Application web responsive et dynamique consommant une API  
 - Gestion d’état  
-- Appels API  
+- Appels API
+- Responsive
 - Interface interactive  
 ⚠️ Clé API requise (GIF de démonstration disponible dans le repo)  
 🔗 Code : https://github.com/charlylam/ochat-svelte
