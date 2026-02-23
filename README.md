@@ -81,7 +81,7 @@ Application web dynamique consommant une API
 
 ---
 
-### 🗄️ API REST – POO & Sequelize (en cours)  
+### 🗄️ API REST – POO & Sequelize  
 Architecture Node.js structurée  
 - Modèles relationnels  
 - Services / Repositories  
