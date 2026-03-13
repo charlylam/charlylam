@@ -63,12 +63,19 @@ Anglais : C1
 
 <br/>
 
-### 🦸 Heroes League  
-Projet statique HTML/CSS  
-- Intégration soignée  
-- Organisation CSS claire  
-🔗 Code : https://github.com/charlylam/heroes-league
+### 📋 Okanban (Docker / Node.js / Svelte)
+Application Kanban full-stack conteneurisée avec Docker
+- API REST Node.js / Express
+- Base de données PostgreSQL avec Sequelize
+- Frontend SPA développé avec Svelte
+- Authentification utilisateur
+- Fonctionnalités IA optionnelles (correction et traduction de cartes via l’API Mistral)
+- Environnement reproductible avec Docker Compose
 
+⚠️ Clé API Mistral requise pour les fonctionnalités IA (le projet fonctionne sans)
+
+🔗 Code : https://github.com/charlylam/okanban-docker
+    
 ---
 
 ### 💬 Ochat (Svelte)  
@@ -76,18 +83,26 @@ Application web responsive et dynamique consommant une API
 - Gestion d’état  
 - Appels API
 - Responsive
-- Interface interactive  
-⚠️ Clé API requise (GIF de démonstration disponible dans le repo)  
+- Interface interactive    
+⚠️ Clé API requise (GIF de démonstration disponible dans le repo)    
 🔗 Code : https://github.com/charlylam/ochat-svelte
 
 ---
 
-### 🗄️ API REST – POO & Sequelize  
-Architecture Node.js structurée  
+### 🗄️ Pokedex
+Architecture Node.js structurée API REST – POO & Sequelize    
 - Modèles relationnels  
 - Services / Repositories  
 - Migrations & Seeders  
 🔗 Code : https://github.com/charlylam/pokedex-sequelize
+
+---
+
+### 🦸 Heroes League  
+Projet statique HTML/CSS  
+- Intégration soignée  
+- Organisation CSS claire  
+🔗 Code : https://github.com/charlylam/heroes-league
 
 </details>
 
