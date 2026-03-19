@@ -63,14 +63,15 @@ Anglais : C1
 
 <br/>
 
-### 📋 Okanban (Docker / Node.js / Svelte)
-Application Kanban full-stack conteneurisée avec Docker
-- API REST Node.js / Express
-- Base de données PostgreSQL avec Sequelize
-- Frontend SPA développé avec Svelte
-- Authentification utilisateur
-- Fonctionnalités IA optionnelles (correction et traduction de cartes via l’API Mistral)
-- Environnement reproductible avec Docker Compose
+### 🔧 Okanban – Application Kanban full-stack
+
+Node.js • Express • PostgreSQL • Sequelize • Svelte • Docker
+- Conception et développement d’une API REST complète
+- Modélisation et gestion d’une base de données relationnelle
+- Mise en place d’un système d’authentification utilisateur
+- Développement d’une interface SPA en Svelte
+- Conteneurisation de l’application avec Docker (environnement reproductible)
+- Intégration d’API externe (IA – Mistral)
 
 ⚠️ Clé API Mistral requise pour les fonctionnalités IA (le projet fonctionne sans)
 
@@ -79,11 +80,11 @@ Application Kanban full-stack conteneurisée avec Docker
 ---
 
 ### 💬 Ochat (Svelte)  
-Application web responsive et dynamique consommant une API  
-- Gestion d’état  
-- Appels API
-- Responsive
-- Interface interactive    
+Svelte • JavaScript
+- Consommation d’API REST (requêtes HTTP)
+- Gestion d’état côté client
+- Interface dynamique et responsive
+      
 ⚠️ Clé API requise (GIF de démonstration disponible dans le repo)    
 🔗 Code : https://github.com/charlylam/ochat-svelte
 
