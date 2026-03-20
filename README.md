@@ -48,8 +48,23 @@ Node.js • Express • PostgreSQL • Sequelize • Svelte • Docker
 
 ⚠️ Clé API Mistral requise pour les fonctionnalités IA (le projet fonctionne sans)
 
-🔗 Code : https://github.com/charlylam/okanban-docker
+🔗 ![Code Okanban](https://github.com/charlylam/okanban-docker)
     
+---
+
+### 🧢 Pokedex – Application full-stack
+
+Node.js • Express • PostgreSQL • Sequelize • SvelteKit
+
+- Conception et développement d’une API REST complète (Pokémon, types, équipes, votes)
+- Modélisation d’une base de données relationnelle avec associations (Many-to-Many)
+- Mise en place d’un système d’authentification (inscription / connexion, rôles)
+- Développement d’une interface dynamique avec SvelteKit (SPA)
+- Intégration d’images externes via PokeAPI (optimisation des assets)
+- Gestion des relations utilisateur ↔ votes et Pokémon ↔ équipes
+
+🔗 ![Code Pokedex](https://github.com/charlylam/Pokedex-fullstack)
+
 ---
 
 ### 💬 Ochat (Svelte)  
@@ -59,16 +74,7 @@ Svelte • JavaScript
 - Interface dynamique et responsive
       
 ⚠️ Clé API requise (GIF de démonstration disponible dans le repo)    
-🔗 Code : https://github.com/charlylam/ochat-svelte
-
----
-
-### 🗄️ Pokedex
-Architecture Node.js structurée API REST – POO & Sequelize    
-- Modèles relationnels  
-- Services / Repositories  
-- Migrations & Seeders  
-🔗 Code : https://github.com/charlylam/pokedex-sequelize
+🔗 ![Code Ochat](https://github.com/charlylam/ochat-svelte)
 
 ---
 
@@ -76,7 +82,7 @@ Architecture Node.js structurée API REST – POO & Sequelize
 Projet statique HTML/CSS  
 - Intégration soignée  
 - Organisation CSS claire  
-🔗 Code : https://github.com/charlylam/heroes-league
+🔗 ![Code Heroes League](https://github.com/charlylam/heroes-league)
 
 
 ---
