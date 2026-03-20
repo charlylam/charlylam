@@ -6,7 +6,7 @@
 
 ---
 
-## <strong>👨‍💻 A propos</strong>
+## 👨‍💻 A propos
 
 Développeur web en reconversion, je conçois des applications full-stack en portant une attention particulière à la qualité du code, à la structuration des projets et à leur maintenabilité.
 
@@ -39,12 +39,11 @@ Anglais : C1
 ### 🔧 Okanban – Application Kanban full-stack
 
 Node.js • Express • PostgreSQL • Sequelize • Svelte • Docker
-- Conception et développement d’une API REST complète
-- Modélisation et gestion d’une base de données relationnelle
-- Mise en place d’un système d’authentification utilisateur
+- Développement d’une API REST (authentification, CRUD, gestion des données)
+- Modélisation d’une base de données relationnelle
 - Développement d’une interface SPA en Svelte
-- Conteneurisation de l’application avec Docker (environnement reproductible)
-- Intégration d’API externe (IA – Mistral)
+- Conteneurisation avec Docker
+- Intégration d’une API externe (IA – Mistral)
 
 ⚠️ Clé API Mistral requise pour les fonctionnalités IA (le projet fonctionne sans)
 
@@ -56,12 +55,11 @@ Node.js • Express • PostgreSQL • Sequelize • Svelte • Docker
 
 Node.js • Express • PostgreSQL • Sequelize • SvelteKit
 
-- Conception et développement d’une API REST complète (Pokémon, types, équipes, votes)
-- Modélisation d’une base de données relationnelle avec associations (Many-to-Many)
-- Mise en place d’un système d’authentification (inscription / connexion, rôles)
-- Développement d’une interface dynamique avec SvelteKit (SPA)
-- Intégration d’images externes via PokeAPI (optimisation des assets)
-- Gestion des relations utilisateur ↔ votes et Pokémon ↔ équipes
+- Développement d’une API REST (Pokémon, types, équipes, votes)  
+- Modélisation des relations complexes (Many-to-Many)  
+- Mise en place d’un système d’authentification (inscription / connexion, rôles)  
+- Développement d’une interface dynamique (SvelteKit)  
+- Gestion des relations utilisateurs ↔ votes et Pokémon ↔ équipes 
   
 
 🔗 [Voir le code](https://github.com/charlylam/Pokedex-fullstack)
@@ -69,7 +67,9 @@ Node.js • Express • PostgreSQL • Sequelize • SvelteKit
 ---
 
 ### 💬 Ochat (Svelte)  
-Svelte • JavaScript
+
+Svelte • JavaScript  
+
 - Consommation d’API REST (requêtes HTTP)
 - Gestion d’état côté client
 - Interface dynamique et responsive
@@ -92,6 +92,6 @@ Projet statique HTML/CSS
 
 ## 📫 Me contacter
 
-- Email : charly.lamena@gmail.com
-- LinkedIn : https://www.linkedin.com/in/charly-lamena/
-- GitHub : https://github.com/charlylam
+📧 charly.lamena@gmail.com  
+🔗 LinkedIn : https://www.linkedin.com/in/charly-lamena/  
+💻 GitHub : https://github.com/charlylam  
