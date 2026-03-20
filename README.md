@@ -62,6 +62,7 @@ Node.js • Express • PostgreSQL • Sequelize • SvelteKit
 - Développement d’une interface dynamique avec SvelteKit (SPA)
 - Intégration d’images externes via PokeAPI (optimisation des assets)
 - Gestion des relations utilisateur ↔ votes et Pokémon ↔ équipes
+  
 
 🔗 [Voir le code](https://github.com/charlylam/Pokedex-fullstack)
 
@@ -73,7 +74,8 @@ Svelte • JavaScript
 - Gestion d’état côté client
 - Interface dynamique et responsive
       
-⚠️ Clé API requise (GIF de démonstration disponible dans le repo)    
+⚠️ Clé API requise (GIF de démonstration disponible dans le repo)  
+
 🔗 [Voir le code](https://github.com/charlylam/ochat-svelte)
 
 ---
@@ -81,7 +83,8 @@ Svelte • JavaScript
 ### 🦸 Heroes League  
 Projet statique HTML/CSS  
 - Intégration soignée  
-- Organisation CSS claire  
+- Organisation CSS claire
+
 🔗 [Voir le code](https://github.com/charlylam/heroes-league)
 
 
