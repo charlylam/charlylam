@@ -6,62 +6,35 @@
 
 ---
 
-<details>
-<summary><strong>👨‍💻 Mon profil développeur</strong></summary>
+## <strong>👨‍💻 A propos</strong>
 
-<br/>
-Pendant 10 ans, j’ai exercé le métier d’ébéniste. Ce métier m’a appris la rigueur technique, la précision, la gestion d’un projet de A à Z et le respect des normes de qualité.
+Développeur web en reconversion, je conçois des applications full-stack en portant une attention particulière à la qualité du code, à la structuration des projets et à leur maintenabilité.
 
-Habitué à analyser un besoin, concevoir une solution sur mesure et livrer un produit fini exigeant, j’ai naturellement retrouvé ces mêmes logiques dans le développement web.
+Mon expérience passée m’apporte rigueur, autonomie et sens du détail, que j’applique aujourd’hui au développement logiciel.
 
-Aujourd’hui en formation Concepteur Développeur d’Applications (Bac+4), je conçois des applications web fullstack en portant une attention particulière à la qualité du code, à la structuration des projets et à leur maintenabilité.
 
-Je m’intéresse aussi bien :
-- à l’expérience utilisateur et à l’intégration soignée côté front-end,
-- qu’à la conception d’API, à l’architecture logicielle et aux bases de données côté back-end.
-
-Mon objectif : mettre ma culture du travail bien fait au service de projets numériques solides, lisibles et durables.
-
-</details>
 
 ---
 
-<details>
-<summary><strong>🛠️ Compétences techniques</strong></summary>
+## <strong>🛠️ Stack Principale</strong>
 
-<br/>
+Front-end
+HTML • CSS • JavaScript • Svelte
 
-### Front-end
-- HTML5 / CSS3 / SCSS
-- JavaScript (ES6+)
-- React.js / Redux
-- TypeScript
-- Accessibilité (W3C, RGAA)
+Back-end
+Node.js • Express • API REST • PostgreSQL
 
-### Back-end
-- Node.js
-- Express
-- API REST / GraphQL
-- POO
-- SQL
+Outils
+Git • Docker • Méthodologie Agile
 
-### Outils & Méthodologie
-- Git / GitHub
-- Docker
-- Déploiement continu
-- Rédaction cahier des charges
-- Méthodologie Agile
+*En cours d’apprentissage*  
+*React • TypeScript*
 
 Anglais : C1
 
-</details>
-
 ---
+## <strong>🚀 Projets principaux</strong>
 
-<details>
-<summary><strong>🚀 Projets principaux</strong></summary>
-
-<br/>
 
 ### 🔧 Okanban – Application Kanban full-stack
 
@@ -105,7 +78,6 @@ Projet statique HTML/CSS
 - Organisation CSS claire  
 🔗 Code : https://github.com/charlylam/heroes-league
 
-</details>
 
 ---
 
