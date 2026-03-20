@@ -48,7 +48,7 @@ Node.js • Express • PostgreSQL • Sequelize • Svelte • Docker
 
 ⚠️ Clé API Mistral requise pour les fonctionnalités IA (le projet fonctionne sans)
 
-🔗 ![Code Okanban](https://github.com/charlylam/okanban-docker)
+🔗 [Voir le code](https://github.com/charlylam/okanban-docker)
     
 ---
 
@@ -63,7 +63,7 @@ Node.js • Express • PostgreSQL • Sequelize • SvelteKit
 - Intégration d’images externes via PokeAPI (optimisation des assets)
 - Gestion des relations utilisateur ↔ votes et Pokémon ↔ équipes
 
-🔗 ![Code Pokedex](https://github.com/charlylam/Pokedex-fullstack)
+🔗 [Voir le code](https://github.com/charlylam/Pokedex-fullstack)
 
 ---
 
@@ -74,7 +74,7 @@ Svelte • JavaScript
 - Interface dynamique et responsive
       
 ⚠️ Clé API requise (GIF de démonstration disponible dans le repo)    
-🔗 ![Code Ochat](https://github.com/charlylam/ochat-svelte)
+🔗 [Voir le code](https://github.com/charlylam/ochat-svelte)
 
 ---
 
@@ -82,7 +82,7 @@ Svelte • JavaScript
 Projet statique HTML/CSS  
 - Intégration soignée  
 - Organisation CSS claire  
-🔗 ![Code Heroes League](https://github.com/charlylam/heroes-league)
+🔗 [Voir le code](https://github.com/charlylam/heroes-league)
 
 
 ---
