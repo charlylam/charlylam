@@ -1,6 +1,6 @@
 # 👋 Bonjour, moi c'est Charly
 
-🔁 Reconversion : 10 ans ébéniste → Développeur Web Fullstack  
+🔁 Reconversion : 15 ans menuisier/ébéniste → Développeur Web Fullstack  
 🎓 Formation Concepteur Développeur d’Applications Web (Bac+4 – École O’clock)  
 🎯 Recherche stage à partir du 22/06/2026  
 
