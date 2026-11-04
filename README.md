@@ -32,6 +32,21 @@ Git • Docker • Méthodologie Agile
 ---
 ## <strong>🚀 Projets principaux</strong>
 
+### 🌱 GreenRoots – Plateforme e-commerce de reforestation (projet d'équipe)
+
+Next.js • React • TypeScript • Node.js • Express • PostgreSQL • Prisma • Docker • Stripe
+
+- Rôle : Product Owner et développeur full-stack, principalement back-end
+- Développement d'une API REST sécurisée (authentification Argon2, JWT en cookie httpOnly, validation Zod)
+- Paiement avec Stripe Checkout et webhook signé, emails transactionnels via l'API Brevo
+- Conteneurisation avec Docker, intégration continue avec GitHub Actions
+- Déploiement en production : Vercel (front), Render (back), Supabase (base de données)
+
+⚠️ Paiement Stripe en mode test uniquement (carte de test), hébergement gratuit : le premier chargement peut prendre environ une minute
+
+🔗 [Voir le code](https://github.com/charlylam/Greenroots) • 🌐 [Voir le site](https://greenroots-nu.vercel.app)
+
+---
 
 ### 🔧 Okanban – Application Kanban full-stack
 
