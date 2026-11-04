@@ -1,6 +1,6 @@
 # 👋 Bonjour, moi c'est Charly
 
-🔁 Reconversion : 13 ans menuisier/ébéniste → Concepteur Développeur d’Applications
+🔁 Reconversion : 13 ans menuisier/ébéniste → Concepteur Développeur d’Applications  
 🎓 Titre Pro Concepteur Développeur d’Applications (Niveau VI - Bac +4)  
 📍 Haut-Bugey (Ain) — je cherche un poste de développeur web dans le Haut-Bugey, à Bourg-en-Bresse, à Lyon ou en télétravail.
 
