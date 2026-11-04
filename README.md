@@ -19,16 +19,13 @@ Mon expérience passée m’apporte rigueur, autonomie et sens du détail, que j
 ## <strong>🛠️ Stack Principale</strong>
 
 **Front-end**  
-HTML • CSS • JavaScript • Svelte  
+HTML • CSS • JavaScript • Svelte • React • TypeScript 
 
 **Back-end**  
 Node.js • Express • API REST • PostgreSQL  
 
 **Outils & Méthodologie**  
 Git • Docker • Méthodologie Agile  
-
-**En cours d’apprentissage**  
-React • TypeScript  
 
 **Anglais** : C1  
 
