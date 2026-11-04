@@ -12,7 +12,7 @@ Ancien ébéniste, développeur web full-stack depuis l'obtention du titre profe
 
 Je conçois des applications de bout en bout : cadrage du besoin, API, base de données, interface et déploiement. De mes années d'atelier, j'ai gardé le goût du travail bien fini et des projets menés jusqu'à leur livraison.
 
-🌐 [Portfolio](URL_A_AJOUTER) • 🔗 [LinkedIn](https://www.linkedin.com/in/charly-lamena)
+🌐 [Portfolio](https://portfolio-charly.vercel.app/) • 🔗 [LinkedIn](https://www.linkedin.com/in/charly-lamena)
 
 ---
 
