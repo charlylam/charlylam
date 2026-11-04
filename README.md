@@ -1,28 +1,28 @@
 # 👋 Bonjour, moi c'est Charly
 
-🔁 Reconversion : 13 ans menuisier/ébéniste → Développeur Web Fullstack  
-🎓 Formation Concepteur Développeur d’Applications Web (Bac+4 – École O’clock)  
-🎯 Recherche stage à partir du 22/06/2026  
+🔁 Reconversion : 13 ans menuisier/ébéniste → Concepteur Développeur d’Applications
+🎓 Titre Pro Concepteur Développeur d’Applications (Niveau VI - Bac +4)  
+📍 Haut-Bugey (Ain) — je cherche un poste de développeur web dans le Haut-Bugey, à Bourg-en-Bresse, à Lyon ou en télétravail.
 
 ---
 
-## 👨‍💻 A propos
+## 👨‍💻 À propos
 
-Développeur web en reconversion, je conçois des applications full-stack en portant une attention particulière à la qualité du code, à la structuration des projets et à leur maintenabilité.
+Ancien ébéniste, développeur web full-stack depuis l'obtention du titre professionnel de concepteur développeur d'applications (École O'clock, 2026).
 
-Mon expérience passée m’apporte rigueur, autonomie et sens du détail, que j’applique aujourd’hui au développement logiciel.
+Je conçois des applications de bout en bout : cadrage du besoin, API, base de données, interface et déploiement. De mes années d'atelier, j'ai gardé le goût du travail bien fini et des projets menés jusqu'à leur livraison.
 
-
+🌐 [Portfolio](URL_A_AJOUTER) • 🔗 [LinkedIn](https://www.linkedin.com/in/charly-lamena)
 
 ---
 
 ## <strong>🛠️ Stack Principale</strong>
 
 **Front-end**  
-HTML • CSS • JavaScript • Svelte • React • TypeScript 
+HTML • CSS • JavaScript • Svelte • React • Next.js • TypeScript 
 
 **Back-end**  
-Node.js • Express • API REST • PostgreSQL  
+Node.js • Express • API REST • PostgreSQL • Prisma 
 
 **Outils & Méthodologie**  
 Git • Docker • Méthodologie Agile  
@@ -51,6 +51,7 @@ Next.js • React • TypeScript • Node.js • Express • PostgreSQL • Pris
 ### 🔧 Okanban – Application Kanban full-stack
 
 Node.js • Express • PostgreSQL • Sequelize • Svelte • Docker
+
 - Développement d’une API REST (authentification, CRUD, gestion des données)
 - Modélisation d’une base de données relationnelle
 - Développement d’une interface SPA en Svelte
@@ -89,16 +90,6 @@ Svelte • JavaScript
 ⚠️ Clé API requise (GIF de démonstration disponible dans le repo)  
 
 🔗 [Voir le code](https://github.com/charlylam/ochat-svelte)
-
----
-
-### 🦸 Heroes League  
-Projet statique HTML/CSS  
-- Intégration soignée  
-- Organisation CSS claire
-
-🔗 [Voir le code](https://github.com/charlylam/heroes-league)
-
 
 ---
 
